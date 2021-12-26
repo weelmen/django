@@ -1,5 +1,5 @@
 # django
-you can visit weelmen.pythonanywhere.com
+you can visit https://weelmen.pythonanywhere.com
 
 ![image](https://user-images.githubusercontent.com/42159453/147421557-4e1b350c-a553-4c7a-a53b-615088322a74.png)
 ![image](https://user-images.githubusercontent.com/42159453/147421567-cb3715c3-067a-4726-9019-8a6282b76c3e.png)
